@@ -9,7 +9,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
-This is a 6 Page Covid-Striker Front End website design
+This is a 6 Page Covid-Helper Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
