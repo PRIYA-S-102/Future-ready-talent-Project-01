@@ -23,7 +23,7 @@ Health
 <br><br>
 
 ### Project Title :
-Health Website(Covid-Striker) with QnA Bot
+Health Website(Covid-Helper) with QnA Bot
 
 
 ### Problem Statement/Opportunity :
